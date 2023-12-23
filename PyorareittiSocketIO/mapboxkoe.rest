@@ -1,0 +1,2 @@
+GET  https://www.mapquestapi.com/geocoding/v1/address?key=MI1bzOTbAzVYPtcLaZer5WZT2ujDALnI
+&location=Kuulankatu, Seinäjoki

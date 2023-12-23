@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+    <h1>Paikkamittaukset</h1>
+   <body>
+      <table border = 1>
+         {% for p in result %}
+            <tr>
+               <td> {{ p[0] }} </td>
+               <td> {{ p[1] }} </td>
+            </tr>            
+         {% endfor %}
+      </table>
+      
+   </body>
+</html>
